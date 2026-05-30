@@ -1159,11 +1159,11 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.093372814, y: 0.18120517, z: -0.016179807, w: 0.9798348}
+    m_Target: {x: 0.115565106, y: 0.05057357, z: -0.0048350412, w: 0.99295497}
     speed: 2
     m_Value: {x: -0.09337282, y: -0.18120518, z: 0.01617981, w: -0.97983485}
   m_Size:
-    m_Target: 0.11827547
+    m_Target: 0.27200484
     speed: 2
     m_Value: 0.11827547
   m_Ortho:
@@ -1483,20 +1483,7 @@ MonoBehaviour:
     m_SelectedIDs: []
     m_LastClickedID:
       m_Data: 0
-    m_ExpandedIDs:
-    - m_Data: 0
-    - m_Data: 70466
-    - m_Data: 90582
-    - m_Data: 90584
-    - m_Data: 90586
-    - m_Data: 90588
-    - m_Data: 90590
-    - m_Data: 90592
-    - m_Data: 90594
-    - m_Data: 90596
-    - m_Data: 90598
-    - m_Data: 90600
-    - m_Data: 90602
+    m_ExpandedIDs: []
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1527,20 +1514,7 @@ MonoBehaviour:
     m_SelectedIDs: []
     m_LastClickedID:
       m_Data: 0
-    m_ExpandedIDs:
-    - m_Data: 0
-    - m_Data: 70466
-    - m_Data: 90582
-    - m_Data: 90584
-    - m_Data: 90586
-    - m_Data: 90588
-    - m_Data: 90590
-    - m_Data: 90592
-    - m_Data: 90594
-    - m_Data: 90596
-    - m_Data: 90598
-    - m_Data: 90600
-    - m_Data: 90602
+    m_ExpandedIDs: []
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
